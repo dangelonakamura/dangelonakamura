@@ -8,7 +8,7 @@
 
 ![](https://komarev.com/ghpvc/?username=dangelonakamura&color=006bed)
 
-**Experiência com**
+**Experience with**
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -19,20 +19,20 @@
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 
 
-**Frameworks e Libs**
+**Frameworks and Libs**
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Styled-Components](https://img.shields.io/badge/-Styled_Components-333333?style=flat&logo=styled-components)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 ![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron)
 
-**Banco de Dados**
+**Databases**
 
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
-**Ferramentas**
+**Tools**
 
 ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
 ![Nodemon](https://img.shields.io/badge/-Nodemon-333333?style=flat&logo=nodemon)
